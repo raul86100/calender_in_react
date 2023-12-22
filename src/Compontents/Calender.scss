@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Headland+One&family=Kalnia:wght@500&display=swap');
+table{
+    border-spacing: 50px;
+    background-color: white;
+    border-radius: 65px;
+    font-size: large;
+    font-weight: normal;
+    tr{
+        align-items: center;
+       
+    }
+}
+.callayout{
+    display: flex;
+    flex-direction: column;
+    gap:12px;
+    align-items: center;
+}
+.month_design{
+    font-family: "Kalnia", serif;
+    color: white;
+    font-size: 46px;
+}
